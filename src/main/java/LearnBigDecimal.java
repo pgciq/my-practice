@@ -48,8 +48,7 @@ public class LearnBigDecimal {
         num.setMinimumFractionDigits(5);
         System.out.println("Formated  PI value : "
                 + num.format(c));
-        String versionControl = "git";
-
+        String versionControl = "svn used by hk, git used by sz";
     }
 
 }
